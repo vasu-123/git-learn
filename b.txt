@@ -1,1 +1,2 @@
 File in master 
+Second line in b.txt in branch session1
